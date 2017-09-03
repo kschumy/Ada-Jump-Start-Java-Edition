@@ -44,9 +44,9 @@ public class MadLibs {
 		System.out.print("adjective: ");
 		words.put("adjOne", console.next());
 
-		System.out.print("adjective: ");
-		words.put("adjTwo", console.next());
-
+		System.out.print("animal (plural): ");
+		words.put("animalsOne", console.next());
+      
 		System.out.print("verb ending in \"-ing\": ");
 		words.put("verbWithIng", console.next());
 
@@ -55,6 +55,9 @@ public class MadLibs {
 
 		System.out.print("subject in school: ");
 		words.put("department", console.next());
+      
+      System.out.print("adjective: ");
+		words.put("adjTwo", console.next());
 
 		System.out.print("sport: ");
 		words.put("sportsTeam", console.next());
@@ -62,9 +65,7 @@ public class MadLibs {
 		System.out.print("superlative: ");
 		words.put("superlative", console.next());
 
-		System.out.print("animal (plural): ");
-		words.put("animalsOne", console.next());
-
+		
 		System.out.print("animal (plural): ");
 		words.put("animalsTwo", console.next());
 
