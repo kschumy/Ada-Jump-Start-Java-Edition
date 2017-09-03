@@ -1,4 +1,4 @@
-# Ada-Jump-Start-Java-Edition
+# Ada Jump Start (Java Edition)
 Java Programs for Ada Developer Academy - Jump Start Assignments 
 
 ## About
