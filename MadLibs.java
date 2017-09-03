@@ -3,7 +3,7 @@
 // Program is based on an assignment for Ada Developers Academy Jump Start, although it's Java 
 // instead of Ruby, these is more than one possible output, and the user can play again.
 //
-// This program produces a text, partly completed by user input.
+// This program produces text, partly completed by user input.
 
 import java.util.HashMap;
 import java.util.Map;
@@ -33,7 +33,7 @@ public class MadLibs {
 	
 	}
 
-	// Used the provided console to store user's responses to the provided words.
+	// Uses the provided console to store user's responses to the provided words.
 	// Returns words.
 	public static Map<String, String> getWords(Scanner console, Map<String, String> words) {
 		System.out.println();
@@ -72,7 +72,7 @@ public class MadLibs {
 		return words;
 	}
 	
-	// Produced text using the provided words
+	// Produces text using the provided words.
 	public static void outputOne(Map <String, String> words) {
 		System.out.println();
 		System.out.println("Welcome to the University of " + firstUpper(words.get("noun")) +"!");
@@ -88,7 +88,7 @@ public class MadLibs {
 		System.out.println();
 	}
 
-	// Produced text using the provided words
+	// Produces text using the provided words.
 	public static void outputTwo(Map <String, String> words) {
 		System.out.println();
 		System.out.println("Welcome to " + firstUpper(words.get("adjOne")) + " State University!");
