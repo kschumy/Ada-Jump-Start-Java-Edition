@@ -12,6 +12,7 @@ All directions are to the Ada Developers Academy Jump Start program assigment th
 |[MadLibs](MadLibs.java) | [MadLibs Assignment](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/09-programming-grammar/assignments/madlibs.md) | <ol><li>Created two MadLibs the program chooses between randomly</li><li>Allowed the user to play again if desired</li></ol>|
 |[CandyMachineUnit](CandyMachineUnit.java)<br>and<br>[CandyMachine](CandyMachine.java)| [Candy Machine Assignment](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/10-programming-expressions/assignments/candy-machine.md) | I had a lot of fun with this one and ended up changing a good bit, although I tried to adhere to the overall directions.<br><ol><li>Created a CandyMachineUnit class</li><li>allowed for more than one purchase</li></ul> |
 
+<hr>
 
 ## To Do
 - [ ] Fix the typo on program comment of CandyMachine.java
