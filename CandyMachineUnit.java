@@ -71,7 +71,7 @@ public class CandyMachineUnit {
 		System.out.println();
 	}
 
-	// Returns true if money is lower than the least expense item and false otherwise.
+	// Returns true if the user cannot afford the least expensive item and false otherwise.
 	public boolean isTooPoor() {
 		return money < 0.50;
 	}
@@ -101,12 +101,12 @@ public class CandyMachineUnit {
 		return userChoice.toUpperCase().charAt(0);
 	}
 
-	// Returns money as a String, to two decimal places, and with a dollar sign.
+	// Returns money as a String and with two decimal places and a dollar sign.
 	private String moneyToString() {
 		return moneyToString(money);
 	}
 
-	// Returns provided intputMoney as a String, to two decimal places, and with a dollar sign.
+	// Returns provided intputMoney and with two decimal places and a dollar sign.
 	private String moneyToString(double intputMoney) {
 		return "$" + String.format("%.2f", intputMoney);
 	}

@@ -13,8 +13,3 @@ All directions are the Ada Developers Academy Jump Start assignment the program 
 |[CandyMachineUnit](CandyMachineUnit.java)<br>and<br>[CandyMachine](CandyMachine.java)| [Candy Machine Assignment](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/10-programming-expressions/assignments/candy-machine.md) | I had a lot of fun with this one and ended up changing a good bit, although I tried to adhere to the overall directions.<br><ol><li>Created a CandyMachineUnit class</li><li>allowed for more than one purchase</li></ul> |
 
 <hr>
-
-## To Do
-- [ ] Fix the typo on program comment of CandyMachine.java
-- [ ] Change program comment for CandyMachineUnit.java to be different than CandyMachine.java
-
